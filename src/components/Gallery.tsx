@@ -45,7 +45,7 @@ const works = [
     src: "https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/d09e8531-8d84-4101-850d-b889dd59c6a7.jpg",
     title: "Щелкунчик — ростовая фигура",
     tag: "Новогодний декор",
-    desc: "",
+    desc: "Высота 160 см · пенопласт, армирование, ударопрочное покрытие",
   },
   {
     src: "https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/1ef48bda-4ac3-4ccd-bdc5-784d338f65ba.jpg",
