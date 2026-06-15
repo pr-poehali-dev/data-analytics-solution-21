@@ -19,19 +19,15 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/c7b644bf-e969-4e57-8a3a-90529582d984.jpg"
+          src="https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/45893c68-1bd3-4c67-8736-4ebaaebbf497.jpg"
           alt="SpartaDecore — изготовление декораций"
           className="w-full h-full object-cover object-center opacity-60"
         />
       </motion.div>
 
       <div className="relative z-10 text-center text-white">
-        <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
-          SPARTA DECORE
-        </h1>
-        <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
-          Объёмные фигуры и арт-объекты из пенопласта любой сложности
-        </p>
+
+
       </div>
     </div>
   );
