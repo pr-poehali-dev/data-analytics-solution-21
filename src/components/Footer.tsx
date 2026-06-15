@@ -30,24 +30,22 @@ export default function Footer() {
                 </a>
               </div>
               <div className="flex flex-col gap-1 sm:gap-2">
-                <h3 className="mb-1 sm:mb-2 uppercase text-neutral-400 text-xs sm:text-sm">Контакты</h3>
+                <h3 className="mb-1 sm:mb-2 uppercase text-neutral-400 text-xs sm:text-sm">Написать Максу</h3>
                 <a
-                  href="tel:+70000000000"
+                  href="https://t.me/+79263594748"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
                 >
-                  Позвонить
+                  Telegram +7 926 359-47-48
                 </a>
                 <a
-                  href="#"
+                  href="https://t.me/+79252584748"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
                 >
-                  Telegram
-                </a>
-                <a
-                  href="#"
-                  className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
-                >
-                  WhatsApp
+                  Telegram +7 925 258-47-48
                 </a>
               </div>
             </div>

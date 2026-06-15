@@ -14,9 +14,14 @@ export default function Featured() {
           Создаём бутафорские фигуры, ростовые буквы и арт-объекты любой формы и размера. Точная резка пенопласта,
           надёжное армирование и финишное покрытие — фигура выглядит эффектно и служит долго.
         </p>
-        <button className="bg-black text-white border border-black px-4 py-2 text-sm transition-all duration-300 hover:bg-white hover:text-black cursor-pointer w-fit uppercase tracking-wide">
-          Заказать фигуру
-        </button>
+        <a
+          href="https://t.me/+79263594748"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bg-black text-white border border-black px-4 py-2 text-sm transition-all duration-300 hover:bg-white hover:text-black cursor-pointer w-fit uppercase tracking-wide inline-block"
+        >
+          Заказать фигуру — написать Максу
+        </a>
       </div>
     </div>
   );
