@@ -15,7 +15,7 @@ const works = [
     src: "https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/a620c5ba-f7af-4cb4-bab5-6a813dc51a76.jpg",
     title: "Гранат — реалистичная скульптура",
     tag: "Арт-объект",
-    desc: "",
+    desc: "Диаметр 50 см · изготовим любые фрукты и размеры по вашим референсам",
   },
   {
     src: "https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/d57b2ce8-fdcb-41fe-b8be-8b3621cec923.jpg",
