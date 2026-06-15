@@ -4,6 +4,7 @@ import Featured from "@/components/Featured";
 import Gallery from "@/components/Gallery";
 import Promo from "@/components/Promo";
 import Footer from "@/components/Footer";
+import TelegramButton from "@/components/TelegramButton";
 
 const Index = () => {
   return (
@@ -14,6 +15,7 @@ const Index = () => {
       <Gallery />
       <Promo />
       <Footer />
+      <TelegramButton />
     </main>
   );
 };
