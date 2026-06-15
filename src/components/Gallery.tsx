@@ -53,6 +53,24 @@ const works = [
     tag: "Событийный декор",
     desc: "",
   },
+  {
+    src: "https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/c6042893-3c9d-4170-881c-e7a3761f4d09.jpg",
+    title: "Кубок UEFA — готовая скульптура",
+    tag: "Арт-объект",
+    desc: "",
+  },
+  {
+    src: "https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/db2a1bd2-c9f2-4a1d-8049-ce690979f3d0.jpg",
+    title: "Инопланетянин — скульптура",
+    tag: "Арт-объект",
+    desc: "",
+  },
+  {
+    src: "https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/73b537be-f1ef-4ca7-bbb0-23671cdef990.jpg",
+    title: "Щелкунчик — фотозона",
+    tag: "Новогодний декор",
+    desc: "",
+  },
 ];
 
 export default function Gallery() {
