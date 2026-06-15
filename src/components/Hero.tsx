@@ -21,7 +21,7 @@ export default function Hero() {
         <img
           src="https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/65c8a5bf-c2dd-4061-b3ef-fc4dc88d99de.jpg"
           alt="SpartaDecore — изготовление декораций"
-          className="w-full h-full object-cover object-center opacity-60"
+          className="w-full h-full object-cover object-center"
         />
       </motion.div>
 
