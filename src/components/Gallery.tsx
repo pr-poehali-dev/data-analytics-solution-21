@@ -9,7 +9,7 @@ const works = [
     src: "https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/b43aafce-560b-4bb1-ae3a-02b4968ff4f2.jpg",
     title: "Сердца из пенопласта",
     tag: "Декор",
-    desc: "",
+    desc: "40×40×5 см · пенопласт, ударопрочное покрытие",
   },
   {
     src: "https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/a620c5ba-f7af-4cb4-bab5-6a813dc51a76.jpg",
