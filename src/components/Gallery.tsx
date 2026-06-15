@@ -24,6 +24,26 @@ const works = [
     title: "Морской конёк — скульптура",
     tag: "Арт-объект",
   },
+  {
+    src: "https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/c7aa6ea9-6afb-4995-8bd9-a07dde135cef.jpg",
+    title: "Пончики — декор для кафе",
+    tag: "Декор",
+  },
+  {
+    src: "https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/02a5e330-3bba-4895-9d73-caafaa6393a0.jpg",
+    title: "Пряничный человечек — витринная фигура",
+    tag: "Бутафория",
+  },
+  {
+    src: "https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/d09e8531-8d84-4101-850d-b889dd59c6a7.jpg",
+    title: "Щелкунчик — ростовая фигура",
+    tag: "Новогодний декор",
+  },
+  {
+    src: "https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/1ef48bda-4ac3-4ccd-bdc5-784d338f65ba.jpg",
+    title: "Мяч для «Недели регби в России»",
+    tag: "Событийный декор",
+  },
 ];
 
 export default function Gallery() {
