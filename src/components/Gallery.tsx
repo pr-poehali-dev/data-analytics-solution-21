@@ -39,7 +39,7 @@ const works = [
     src: "https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/02a5e330-3bba-4895-9d73-caafaa6393a0.jpg",
     title: "Пряничный человечек — витринная фигура",
     tag: "Бутафория",
-    desc: "",
+    desc: "150×120×30 см · пенопласт, армирование, ударопрочное покрытие",
   },
   {
     src: "https://cdn.poehali.dev/projects/6935b8e4-8027-4f67-bed6-5a461b7945af/bucket/d09e8531-8d84-4101-850d-b889dd59c6a7.jpg",
